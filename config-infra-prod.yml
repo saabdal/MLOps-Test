@@ -1,7 +1,7 @@
 variables:
 
   # Global
-  namespace: sa-demov1
+  namespace: sademov1
   postfix: 5825
   location: westus
   environment: prod
