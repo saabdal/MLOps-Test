@@ -1,7 +1,7 @@
 variables:
 
   # Global
-  namespace: mlopsv2-sami
+  namespace: sa-demov1
   postfix: 5825
   location: westus
   environment: prod
